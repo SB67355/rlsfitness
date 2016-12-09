@@ -18,6 +18,7 @@
 		<link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
 		<!-- magnific popup CSS -->	
 		<link rel="stylesheet" href="assets/css/magnific-popup.css">	
+
         <!--master slider-->
         <link rel="stylesheet" href="assets/master-slider/style/masterslider.css">
         <link rel="stylesheet" href="assets/master-slider/skins/default/style.css"> 		
@@ -149,21 +150,22 @@
 			</div><!-- END CONTAINER -->
 		</section>
 		<!-- END MEMBERSHIP -->
-		
+
+		<script type="text/javascript">
+			function resizeIframe(iframe) {
+				iframe.height = iframe.contentWindow.document.body.scrollHeight + "px";
+				console.log("bla" + iframe.contentWindow.document.body.scrollHeight + "px");
+			}
+		</script>
+
 		<!-- Start Timetable Section -->
 		<section class="timetable section-padding">
+			<div id="timediv" class="embed-responsive embed-responsive-16by9">
+				<iframe onload="resizeIframe(this)" class="embed-responsive-item" src="timetable.html" style="scrolling:no"></iframe>
 
+			</div>
 		</section>
 		<!-- End Timetable Section -->
-
-		<!-- PROMOTION -->
-		<section class="buy_now">
-			<div class="container text-center">
-				<h3 class="buy_now_title">Your Results Are Our Goals<a href="#" class="btn-light-bg">Timetable</a></h3>
-			</div>
-			<!--- END CONTAINER -->
-		</section>
-		<!-- END PROMOTION -->
 
 		<!-- START FOOTER TOP-->
 		<section class="footer"

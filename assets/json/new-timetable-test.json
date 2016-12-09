@@ -1,0 +1,422 @@
+﻿[
+  {
+    "id": 111,
+    "start": "2016-12-05 07:30",
+    "finish": "2016-05-14 08:30",
+    "session": "Spin & Circuits (60mins)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>60 Minute Spin & Circuits class</p></p>"
+  },
+  {
+    "id": 112,
+    "start": "2016-12-05 09:30",
+    "finish": "2016-05-14 10:40",
+    "session": "FitCamp (70Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 113,
+    "start": "2016-12-05 11:00",
+    "finish": "2016-12-05 12:00",
+    "session": "BodyPump (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 114,
+    "start": "2016-12-05 16:30",
+    "finish": "2016-12-05 17:30",
+    "session": "Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 115,
+    "start": "2016-12-05 18:00",
+    "finish": "2016-12-05 19:10",
+    "session": "20/20/20 (70Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 116,
+    "start": "2016-12-05 18:30",
+    "finish": "2016-12-05 19:45",
+    "session": "TRX Strength Con (75Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 117,
+    "start": "2016-12-05 19:30",
+    "finish": "2016-12-05 20:30",
+    "session": "Spinning 60 (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 118,
+    "start": "2016-12-05 20:15",
+    "finish": "2016-12-05 21:15",
+    "session": "FriendlyFitness (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 121,
+    "start": "2016-12-06 06:30",
+    "finish": "2016-12-06 07:30",
+    "session": "Spinning (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 122,
+    "start": "2016-12-06 09:15",
+    "finish": "2016-12-06 10:15",
+    "session": "Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 123,
+    "start": "2016-12-06 10:30",
+    "finish": "2016-12-06 11:30",
+    "session": "Spin & Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 124,
+    "start": "2016-12-06 17:00",
+    "finish": "2016-12-06 18:00",
+    "session": "6 Pack Attack (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 125,
+    "start": "2016-12-06 18:15",
+    "finish": "2016-12-06 19:30",
+    "session": "Strength Camp (75Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 126,
+    "start": "2016-12-06 18:30",
+    "finish": "2016-12-06 19:30",
+    "session": "BoxFit Total  (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 127,
+    "start": "2016-12-06 19:30",
+    "finish": "2016-12-06 20:40",
+    "session": "20/20/20 (70Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 128,
+    "start": "2016-12-06 20:00",
+    "finish": "2016-12-06 21:00",
+    "session": "FriendlyFitness (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 131,
+    "start": "2016-12-07 07:00",
+    "finish": "2016-12-07 08:00",
+    "session": "6 Pack Attack (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 132,
+    "start": "2016-12-07 09:30",
+    "finish": "2016-12-07 10:30",
+    "session": "BodyPump(60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 133,
+    "start": "2016-12-07 11:00",
+    "finish": "2016-12-07 12:10",
+    "session": "FitCamp (70Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 134,
+    "start": "2016-12-07 18:30",
+    "finish": "2016-12-07 19:45",
+    "session": "TRX Strength Con (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 135,
+    "start": "2016-12-07 19:00",
+    "finish": "2016-12-07 20:00",
+    "session": "Spinning 60 (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 136,
+    "start": "2016-12-07 20:00",
+    "finish": "2016-12-07 21:00",
+    "session": "Friendly Fitness (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 137,
+    "start": "2016-12-07 07:00",
+    "finish": "2016-12-07 08:00",
+    "session": "6 Pack Attack (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 138,
+    "start": "2016-12-08 07:00",
+    "finish": "2016-12-08 08:00",
+    "session": "6 Pack Attack (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 141,
+    "start": "2016-12-08 06:30",
+    "finish": "2016-12-08 07:30",
+    "session": "Spin & Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 142,
+    "start": "2016-12-08 09:15",
+    "finish": "2016-12-08 10:15",
+    "session": "BodyPump Cardio (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 143,
+    "start": "2016-12-08 10:30",
+    "finish": "2016-12-08 11:30",
+    "session": "20/20/20 (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 144,
+    "start": "2016-12-08 17:00",
+    "finish": "2016-12-08 18:00",
+    "session": "6 Pack Attack (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 145,
+    "start": "2016-12-08 18:15",
+    "finish": "2016-12-08 19:30",
+    "session": "Strength Camp (75Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 146,
+    "start": "2016-12-08 18:30",
+    "finish": "2016-12-08 19:30",
+    "session": "BoxFit Total (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 147,
+    "start": "2016-12-08 19:30",
+    "finish": "2016-12-08 20:30",
+    "session": "Spin & Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 148,
+    "start": "2016-12-08 20:00",
+    "finish": "2016-12-08 21:00",
+    "session": "Friendly Fitness (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 151,
+    "start": "2016-12-09 07:00",
+    "finish": "2016-12-09 08:00",
+    "session": "20/20/20 (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 152,
+    "start": "2016-12-09 09:30",
+    "finish": "2016-12-09 10:30",
+    "session": "Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 153,
+    "start": "2016-12-09 10:30",
+    "finish": "2016-12-09 11:30",
+    "session": "Spin &  Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 154,
+    "start": "2016-12-09 17:15",
+    "finish": "2016-12-09 18:15",
+    "session": "Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 155,
+    "start": "2016-12-09 18:30",
+    "finish": "2016-12-09 19:30",
+    "session": "Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 156,
+    "start": "2016-12-09 19:30",
+    "finish": "2016-12-09 20:30",
+    "session": "Friendly Fitness (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 161,
+    "start": "2016-12-10 09:15",
+    "finish": "2016-12-10 10:25",
+    "session": "20/20/20 (70Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 162,
+    "start": "2016-12-10 10:30",
+    "finish": "2016-12-10 11:30",
+    "session": "Strength Camp (75Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 163,
+    "start": "2016-12-10 18:30",
+    "finish": "2016-12-10 19:30",
+    "session": "Circuits (60Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  },
+  {
+    "id": 171,
+    "start": "2016-12-11 09:30",
+    "finish": "2016-12-11 11:00",
+    "session": "Endurance Challenge (90Min)<p>&nbsp;</p>",
+    "location": "Main Gym",
+    "instructor": "",
+    "activity": "",
+    "description": "<p><p>Description Here</p></p>"
+  }
+]
