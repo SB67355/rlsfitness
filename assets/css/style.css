@@ -2149,6 +2149,7 @@ ul.blog_pagination li a:hover {
     }
 }
 
+
 .membership h1 {
     margin-right: 30px;
     font-size: 54px;
@@ -2193,6 +2194,52 @@ ul.blog_pagination li a:hover {
     font-weight: bold;
     color: #161616;
 }
+
+.timetable h1 {
+    margin-right: 30px;
+    font-size: 54px;
+    line-height: 1.2em;
+    text-transform: none;
+    letter-spacing: 0em;
+    font-weight: 800;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+    /*color: #161616;*/
+    color: #fff;
+}
+
+.timetable h2 {
+    font-size: 22px;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: .02em;
+    font-weight: 400;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+    /*color: #161616;*/
+    color: #fff;
+}
+
+.timetable h3 {
+    font-size: 18px;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: .04em;
+    font-weight: 400;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+    /*color: #161616;*/
+    color: #fff;
+}
+
+.timetable h3 strong {
+    font-weight: bold;
+    color: #161616;
+}
+
 
 .form-control-feedback {
     color: #fff;
@@ -2429,6 +2476,24 @@ ul.blog_pagination li a:hover {
 .single_footer h1 {
     border-radius: 20px;
     background: #FF7817 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 18px;
+    margin: 0 0 30px;
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .timetable_link {
+        padding-top: 20px;
+        margin-bottom: 40px
+    }
+}
+
+.timetable_link h1 {
+    border-radius: 15px;
+    background: #020181 none repeat scroll 0 0;
     color: #fff;
     font-size: 18px;
     margin: 0 0 30px;
