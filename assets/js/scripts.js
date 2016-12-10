@@ -17,13 +17,13 @@ Version      : 1.0
 		/*END PRELOADER JS*/
 
 		/*START MENU JS*/
-			$(window).scroll(function() {
-			  if ($(this).scrollTop() > 100) {
-				$('.menu-top').addClass('menu-shrink');
-			  } else {
-				$('.menu-top').removeClass('menu-shrink');
-			  }
-			});
+			//$(window).scroll(function() {
+			//  if ($(this).scrollTop() > 100) {
+			//	$('.menu-top').addClass('menu-shrink');
+			//  } else {
+			//	$('.menu-top').removeClass('menu-shrink');
+			//  }
+			//});
 			
 			$(document).on('click','.navbar-collapse.in',function(e) {
 			if( $(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle' ) {
