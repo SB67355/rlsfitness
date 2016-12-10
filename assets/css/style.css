@@ -482,13 +482,17 @@ fieldset {
 }
 
 .caption h2 {
-    background: rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
-    border: 4px double #333;
-    color: #333;
+    background: #FF7817 none repeat scroll 0 0;
+    border: 4px double #020181;
+    color: #020181;
     font-size: 44px;
     margin: auto auto 20px;
     padding: 10px 0;
     width: 70%;
+}
+
+.banner_text_h2 {
+    background: #FF7817 none repeat scroll 0 0;
 }
 
 @media only screen and (max-width: 768px) {
@@ -2193,6 +2197,20 @@ ul.blog_pagination li a:hover {
 .membership h3 strong {
     font-weight: bold;
     color: #161616;
+}
+
+.index_banner_text h1 {
+    margin-right: 30px;
+    font-size: 94px;
+    line-height: 1.2em;
+    text-transform: none;
+    letter-spacing: 0em;
+    font-weight: 800;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+    /*color: #161616;*/
+    color: #fff;
 }
 
 .timetable h1 {
