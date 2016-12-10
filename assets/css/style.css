@@ -2213,6 +2213,14 @@ ul.blog_pagination li a:hover {
     color: #fff;
 }
 
+
+@media only screen and (max-width: 768px) {
+    .index_banner_text h1 {
+        font-size: 65px
+    }
+}
+
+
 .timetable h1 {
     margin-right: 30px;
     font-size: 54px;
